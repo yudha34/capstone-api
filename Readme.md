@@ -1,2 +1,2 @@
 # Capstone API
-## Getting Started
+## Belum mulai masih bingung
