@@ -2,3 +2,5 @@
 install using nvm follow this link : https://github.com/coreybutler/nvm-windows 
 - install express js
 npm install express
+- install nodemon as dev dependencies
+npm install nodemon --save-dev
