@@ -1,0 +1,4 @@
+-install node js
+install using nvm follow this link : https://github.com/coreybutler/nvm-windows 
+- install express js
+npm install express
